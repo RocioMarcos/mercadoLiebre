@@ -122,6 +122,7 @@ article img{
 article{
     margin-top: 10px;
     background-color: #FFF;
+    min-width: 22.5%;
 }
 
 .texto-producto{
