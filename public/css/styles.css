@@ -138,6 +138,7 @@ article{
     border-radius: 100%; */
     position: relative;
     color: var(--verde);
+    
 }
 
 .fa-truck{
@@ -152,6 +153,10 @@ article{
     position: absolute;
     right: 20px;
     top: -30px;
+    transition: all 0.2s ease-in-out;
+}
+.fa-truck:hover{
+    transform: rotateZ(90deg);
 }
 
 .ventaja{
