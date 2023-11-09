@@ -247,4 +247,18 @@ article{
     #recomendaciones article, #ofertas article{
         display: block;
     }
+
+    footer{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    footer .ventaja{
+        width: 30%;
+    }
+
+    footer .copyright{
+        width: 100%;
+    }
 }
